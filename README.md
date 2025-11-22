@@ -17,7 +17,8 @@ I participated in the *Kaggle Agents Intensive - Capstone Project*, and my proje
 
 ### 🌱 Currently Exploring
 * Applying deep learning (Python/PyTorch) to medical image segmentation.
-* Mastering protein modelling for computational drug discovery.Building robust APIs (FastAPI) to deploy intelligent agent services.
+* Mastering protein modelling for computational drug discovery.
+* Building robust APIs (FastAPI) to deploy intelligent agent services.
 
 ### 📫 Connect with Me 
 LinkedIn: ( https://www.linkedin.com/in/manaalm/ )
