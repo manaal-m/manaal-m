@@ -9,7 +9,7 @@ I participated in the *Kaggle Agents Intensive - Capstone Project*, and my proje
 * Goal: Generate nutritionally optimized, Indian-cuisine meal plans while strictly validating Halal compliance in parallel.
 * Architecture: Demonstrates a professional Sequential $\rightarrow$ Parallel $\rightarrow$ Sequential agent flow.
 * Concepts: Features Custom Tools (macro calculation), Long Term Memory, and Observability.
-➡️ [View the Halal-Fit Chef Agent Repository Here] (https://github.com/manaal-m/Halal-Fit-Chef-Agent) 
+➡️ https://github.com/manaal-m/Halal-Fit-Chef-Agent
 
 ### 💻 Academic Foundation & Technical Focus
 **MSc Health Tech & Data Science**: Data Analysis, Statistical Modelling (R), Computational Biology, Health Data Science, Protein Modelling, Advanced ML
@@ -20,4 +20,4 @@ I participated in the *Kaggle Agents Intensive - Capstone Project*, and my proje
 * Mastering protein modelling for computational drug discovery.Building robust APIs (FastAPI) to deploy intelligent agent services.
 
 ### 📫 Connect with Me 
-[LinkedIn] ( https://www.linkedin.com/in/manaalm/ )
+LinkedIn: ( https://www.linkedin.com/in/manaalm/ )
