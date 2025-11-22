@@ -20,6 +20,6 @@ I participated in the *Kaggle Agents Intensive - Capstone Project*, and my proje
 * Mastering protein modelling for computational drug discovery.Building robust APIs (FastAPI) to deploy intelligent agent services.
 
 ### 📫 Connect with Me 
-[
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+[ 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
 ] ( https://www.linkedin.com/in/manaalm/ )
