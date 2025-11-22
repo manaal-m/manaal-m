@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Manaal!!!! 👋
 
-<!--
-**manaal-m/manaal-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am currently pursuing my MSc in Health Technologies & Data Science, and I have a clinical background with a BSc in Medical Imaging (Diagnostic Radiography)
 
-Here are some ideas to get you started:
+I'm a developer and researcher focused on the intersection of Health Technologies, Data Science, and Medical Imaging. My goal is to apply robust computational models (Python, R) to solve complex problems in diagnostics and patient compliance, with a strong interest in the MedTech sector.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Project: Halal-Fit Chef Agent
+I participated in the *Kaggle Agents Intensive - Capstone Project*, and my project is an example of applying complex Multi-Agent Systems to solve real-world, compliance-driven problems:
+* Goal: Generate nutritionally optimized, Indian-cuisine meal plans while strictly validating Halal compliance in parallel.
+* Architecture: Demonstrates a professional Sequential $\rightarrow$ Parallel $\rightarrow$ Sequential agent flow.
+* Concepts: Features Custom Tools (macro calculation), Long Term Memory, and Observability.
+➡️ [View the Halal-Fit Chef Agent Repository Here] (https://github.com/manaal-m/Halal-Fit-Chef-Agent) 
+
+### 💻 Academic Foundation & Technical Focus
+**MSc Health Tech & Data Science**: Data Analysis, Statistical Modelling (R), Computational Biology, Health Data Science, Protein Modelling, Advanced ML
+**BSc Medical Imaging**: Image Analysis, Clinical Workflow, Diagnostic Modalities, Medical Imaging, DICOM Standards, Image Segmentation
+
+### 🌱 Currently Exploring
+* Applying deep learning (Python/PyTorch) to medical image segmentation.
+* Mastering protein modelling for computational drug discovery.Building robust APIs (FastAPI) to deploy intelligent agent services.
+
+### 📫 Connect with Me 
+[
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+] ( https://www.linkedin.com/in/manaalm/ )
