@@ -5,7 +5,7 @@ I am a Master's student specialising in Health Technologies and Data Science. My
 ## Technical Skills
 
 - **Neuroimaging & MRI Signal Processing**: FSL, FreeSurfer, MONAI, Docker, WSL
-- **Data Analysis & Visualisation**: Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, SQL
+- **Data Analysis & Visualisation**: Python, Excel, SQL
 - **Healthcare Systems**: PACS, RIS, DICOM Standards, Electronic Health Records (EHR)
 - **Machine Learning**: PyTorch, scikit-learn
 
